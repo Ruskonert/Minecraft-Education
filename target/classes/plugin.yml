@@ -1,8 +1,0 @@
-name: MinecraftEducation
-author: ruskonert
-version: 1.0.0
-main: io.github.emputi.minecrafteducation.application.Application
-description: For education coding with Minecraft-spigot
-commands:
-  minecrafteducation:
-    description: Minecraft education plugin
